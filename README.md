@@ -19,3 +19,7 @@ const managementApi = new AWS.ApiGatewayManagementApi({
 # Forward compatible
 
 If the local `aws-sdk` includes `ApiGatewayManagementApi` then this modules does nothing.
+
+# Disclosure
+
+The implementation is basically a Copy & Paste from https://github.com/aws/aws-sdk-js
