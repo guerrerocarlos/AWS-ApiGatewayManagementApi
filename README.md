@@ -22,4 +22,4 @@ If the local `aws-sdk` includes `ApiGatewayManagementApi` then this modules does
 
 # Disclosure
 
-The implementation is basically a Copy & Paste from https://github.com/aws/aws-sdk-js
+The implementation is basically a Copy & Paste from [aws-sdk](https://github.com/aws/aws-sdk-js)
